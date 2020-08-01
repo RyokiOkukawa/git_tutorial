@@ -343,4 +343,5 @@ BI部第一インテグレーション課
 
 最終更新日:2020/08/01
 git diff
+git commit --amend
 '''
