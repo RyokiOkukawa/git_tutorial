@@ -337,9 +337,7 @@ if __name__ == '__main__':
 
 '''
 作成
-
-BI部第一インテグレーション課
-奥川凌貴
+Ryoki Okukawa
 
 最終更新日:2020/08/01
 git diff
